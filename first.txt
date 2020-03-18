@@ -1,0 +1,5 @@
+Git init command is used to initialise git repository. We shall have to run this command only once in the lifetime of a project. This command will create a folder called git. This git folder is invisible and should not be accessed   manually.
+
+git --version -this command
+
+this line is missing.
